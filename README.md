@@ -3,9 +3,11 @@
 **Farmona** is an end-to-end machine learning project designed to predict crop types and provide agronomic insights.  
 It combines **data analysis**, **feature engineering**, and **model optimization** in a Jupyter notebook with an interactive **Streamlit web application** for real-time predictions.
 
+**🔗 Live App:** https://farmona.streamlit.app/
+
 ---
 
-![Farmona Web App Screenshot](docs/farmona_app.PNG)  
+![Farmona Web App Screenshot](docs/farmona_app.PNG)(https://farmona.streamlit.app/) 
 *Example view of the Farmona Streamlit web application.*
 
 ## 🚀 Features
