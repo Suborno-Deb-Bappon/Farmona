@@ -7,7 +7,7 @@ It combines **data analysis**, **feature engineering**, and **model optimization
 
 ---
 
-![Farmona Web App Screenshot](docs/farmona_app.PNG)(https://farmona.streamlit.app/) 
+[![Farmona Web App Screenshot](docs/farmona_app.PNG)](https://farmona.streamlit.app/)
 *Example view of the Farmona Streamlit web application.*
 
 ## 🚀 Features
