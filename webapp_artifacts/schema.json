@@ -1,0 +1,218 @@
+{
+  "N": {
+    "type": "numeric",
+    "default": 37.0,
+    "range": [
+      4.0,
+      116.0
+    ]
+  },
+  "P": {
+    "type": "numeric",
+    "default": 51.0,
+    "range": [
+      10.0,
+      133.0
+    ]
+  },
+  "K": {
+    "type": "numeric",
+    "default": 32.0,
+    "range": [
+      15.0,
+      199.0
+    ]
+  },
+  "temperature": {
+    "type": "numeric",
+    "default": 25.5986932,
+    "range": [
+      17.915084964000002,
+      34.056635577999984
+    ]
+  },
+  "humidity": {
+    "type": "numeric",
+    "default": 80.473145665,
+    "range": [
+      19.3749174555,
+      94.3688436845
+    ]
+  },
+  "ph": {
+    "type": "numeric",
+    "default": 6.42504527,
+    "range": [
+      5.435111747700001,
+      7.748417415349997
+    ]
+  },
+  "rainfall": {
+    "type": "numeric",
+    "default": 94.86762427,
+    "range": [
+      33.8235117215,
+      209.54243784
+    ]
+  },
+  "soil_moisture": {
+    "type": "numeric",
+    "default": 20.08848116520079,
+    "range": [
+      11.108212865941463,
+      29.01743909275997
+    ]
+  },
+  "soil_type": {
+    "type": "numeric",
+    "default": 2.0,
+    "range": [
+      1.0,
+      3.0
+    ]
+  },
+  "sunlight_exposure": {
+    "type": "numeric",
+    "default": 8.609967827466491,
+    "range": [
+      5.316142848638555,
+      11.626055934334783
+    ]
+  },
+  "wind_speed": {
+    "type": "numeric",
+    "default": 10.256241418586718,
+    "range": [
+      1.1084443436031044,
+      19.02144241392505
+    ]
+  },
+  "co2_concentration": {
+    "type": "numeric",
+    "default": 399.69146991084096,
+    "range": [
+      355.0973266896233,
+      444.61445293382246
+    ]
+  },
+  "organic_matter": {
+    "type": "numeric",
+    "default": 5.418048665288798,
+    "range": [
+      1.4225591041128585,
+      9.51623959283381
+    ]
+  },
+  "irrigation_frequency": {
+    "type": "numeric",
+    "default": 4.0,
+    "range": [
+      1.0,
+      6.0
+    ]
+  },
+  "crop_density": {
+    "type": "numeric",
+    "default": 12.303616305235739,
+    "range": [
+      5.736051085628475,
+      19.17916878249752
+    ]
+  },
+  "pest_pressure": {
+    "type": "numeric",
+    "default": 49.98242074441201,
+    "range": [
+      5.022835961437402,
+      95.16046389075792
+    ]
+  },
+  "fertilizer_usage": {
+    "type": "numeric",
+    "default": 126.4415364505279,
+    "range": [
+      58.5340305428944,
+      192.2364203677829
+    ]
+  },
+  "growth_stage": {
+    "type": "numeric",
+    "default": 2.0,
+    "range": [
+      1.0,
+      3.0
+    ]
+  },
+  "urban_area_proximity": {
+    "type": "numeric",
+    "default": 24.92254848886754,
+    "range": [
+      2.214965257319081,
+      47.66421615943461
+    ]
+  },
+  "water_source_type": {
+    "type": "numeric",
+    "default": 2.0,
+    "range": [
+      1.0,
+      3.0
+    ]
+  },
+  "frost_risk": {
+    "type": "numeric",
+    "default": 50.17193366069964,
+    "range": [
+      5.53722178911043,
+      94.81808518375297
+    ]
+  },
+  "water_usage_efficiency": {
+    "type": "numeric",
+    "default": 2.9686749880082646,
+    "range": [
+      1.1980890319309625,
+      4.792203835841172
+    ]
+  },
+  "THI": {
+    "type": "numeric",
+    "default": 24.0944765534816,
+    "range": [
+      16.539336809982665,
+      30.740319830687756
+    ]
+  },
+  "NBR": {
+    "type": "numeric",
+    "default": 0.6666843548040554,
+    "range": [
+      0.5597301519348673,
+      0.8766946680028
+    ]
+  },
+  "WAI": {
+    "type": "numeric",
+    "default": 0.24686241206814658,
+    "range": [
+      0.1455532455033942,
+      0.4090278676498976
+    ]
+  },
+  "PP": {
+    "type": "numeric",
+    "default": 0.0441060083519693,
+    "range": [
+      0.004384448821171277,
+      0.10771349502044757
+    ]
+  },
+  "SFI": {
+    "type": "numeric",
+    "default": 0.4545897664626699,
+    "range": [
+      0.2086266760688054,
+      0.7222050547979625
+    ]
+  }
+}
